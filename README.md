@@ -1,6 +1,6 @@
 ## Vanilla Javascript Projects Wes Bos
 
-!-[screenshot](js30.png)
+![screenshot](js30.png)
 
 Projects List:
 
