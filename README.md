@@ -2,62 +2,64 @@
 
 ![screenshot](js30.png)
 
--[] JavaScript Drum Kit
+Projects List:
 
--[] JS and CSS Clock
+[ ] JavaScript Drum Kit
 
--[] CSS Variables
+[ ] JS and CSS Clock
 
--[] Array Cardio Day 1
+[ ] CSS Variables
 
--[] Flex Panel Gallery
+[ ] Array Cardio Day 1
 
--[] Type Ahead
+[ ] Flex Panel Gallery
 
--[] Array Cardio Day 2
+[ ] Type Ahead
 
--[] Fun with HTML5 Canvas
+[ ] Array Cardio Day 2
 
--[] Dev Tools Domination
+[ ] Fun with HTML5 Canvas
 
--[] Hold Shift and Check Checkboxes
+[ ] Dev Tools Domination
 
--[] Custom Video Player
+[ ] Hold Shift and Check Checkboxes
 
--[] Key Sequence Detection
+[ ] Custom Video Player
 
--[] Slide in on Scroll
+[ ] Key Sequence Detection
 
--[] JavaScript References VS Copying
+[ ] Slide in on Scroll
 
--[] LocalStorage
+[ ] JavaScript References VS Copying
 
--[] Mouse Move Shadow
+[ ] LocalStorage
 
--[] Sort Without Articles
+[ ] Mouse Move Shadow
 
--[] Adding Up Times with Reduce
+[ ] Sort Without Articles
 
--[] Webcam Fun
+[ ] Adding Up Times with Reduce
 
--[] Speech Detection
+[ ] Webcam Fun
 
--[] Geolocation
+[ ] Speech Detection
 
--[] Follow Along Link Highlighter
+[ ] Geolocation
 
--[] Speech Synthesis
+[ ] Follow Along Link Highlighter
 
--[] Sticky Nav
+[ ] Speech Synthesis
 
--[] Event Capture, Propagation, Bubbling and Once
+[ ] Sticky Nav
 
--[] Stripe Follow Along Nav
+[ ] Event Capture, Propagation, Bubbling and Once
 
--[] Click and Drag
+[ ] Stripe Follow Along Nav
 
--[] Video Speed Controller
+[ ] Click and Drag
 
--[] Countdown Timer
+[ ] Video Speed Controller
 
--[] Whack A Mole
+[ ] Countdown Timer
+
+[ ] Whack A Mole
