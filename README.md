@@ -4,7 +4,7 @@
 
 Projects List:
 
-- [ x ] JavaScript Drum Kit
+- [x] JavaScript Drum Kit
 
 - [ ] JS and CSS Clock
 
