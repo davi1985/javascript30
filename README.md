@@ -1,65 +1,65 @@
 ## Vanilla Javascript Projects Wes Bos
 
-![screenshot](js30.png)
+!-[screenshot](js30.png)
 
 Projects List:
 
-[ ] JavaScript Drum Kit
+- [ ] JavaScript Drum Kit
 
-[ ] JS and CSS Clock
+- [ ] JS and CSS Clock
 
-[ ] CSS Variables
+- [ ] CSS Variables
 
-[ ] Array Cardio Day 1
+- [ ] Array Cardio Day 1
 
-[ ] Flex Panel Gallery
+- [ ] Flex Panel Gallery
 
-[ ] Type Ahead
+- [ ] Type Ahead
 
-[ ] Array Cardio Day 2
+- [ ] Array Cardio Day 2
 
-[ ] Fun with HTML5 Canvas
+- [ ] Fun with HTML5 Canvas
 
-[ ] Dev Tools Domination
+- [ ] Dev Tools Domination
 
-[ ] Hold Shift and Check Checkboxes
+- [ ] Hold Shift and Check Checkboxes
 
-[ ] Custom Video Player
+- [ ] Custom Video Player
 
-[ ] Key Sequence Detection
+- [ ] Key Sequence Detection
 
-[ ] Slide in on Scroll
+- [ ] Slide in on Scroll
 
-[ ] JavaScript References VS Copying
+- [ ] JavaScript References VS Copying
 
-[ ] LocalStorage
+- [ ] LocalStorage
 
-[ ] Mouse Move Shadow
+- [ ] Mouse Move Shadow
 
-[ ] Sort Without Articles
+- [ ] Sort Without Articles
 
-[ ] Adding Up Times with Reduce
+- [ ] Adding Up Times with Reduce
 
-[ ] Webcam Fun
+- [ ] Webcam Fun
 
-[ ] Speech Detection
+- [ ] Speech Detection
 
-[ ] Geolocation
+- [ ] Geolocation
 
-[ ] Follow Along Link Highlighter
+- [ ] Follow Along Link Highlighter
 
-[ ] Speech Synthesis
+- [ ] Speech Synthesis
 
-[ ] Sticky Nav
+- [ ] Sticky Nav
 
-[ ] Event Capture, Propagation, Bubbling and Once
+- [ ] Event Capture, Propagation, Bubbling and Once
 
-[ ] Stripe Follow Along Nav
+- [ ] Stripe Follow Along Nav
 
-[ ] Click and Drag
+- [ ] Click and Drag
 
-[ ] Video Speed Controller
+- [ ] Video Speed Controller
 
-[ ] Countdown Timer
+- [ ] Countdown Timer
 
-[ ] Whack A Mole
+- [ ] Whack A Mole
